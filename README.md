@@ -1,7 +1,9 @@
 # MediPill - Final Project
 
 MediPill - This is a healthcare app that I built for my Individual Project at City, University of London.
+
 The project has achieved a mark of 72%.
+
 Author: Ayesha Kayani
 
 ## Abstract
