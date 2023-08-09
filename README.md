@@ -17,6 +17,7 @@ Initially, I intended to create a pill reminder app as this was something I coul
 After doing some research online and from the knowledge I gained from my internship, I was made aware of the insufficient use of technology within care homes. Having previously worked on a project for a well-known UK Healthcare Provider, my main role was to help with the integrations between their Hospitals and Care Homes. Although the company is a global competitor, you’d assume that they would have these basic integrations already in place.
 The problem I am aiming to address is the insufficient use of technology within care homes, resulting in difficulty in managing patient medication reminders, appointment schedules, and medical records. The solution I am proposing is a single app for Care Home workers incorporating these features to streamline and improve their business operations.
 
+
 ## 1.2 Objectives
 Having primary and secondary objectives helps to clarify the project's purpose and priorities.
 • Primary objectives - Main goals
@@ -34,9 +35,11 @@ objective.
 2. Provide customizable reminders and notifications to ensure that residents take their
 medication on time and attend appointments.
 
+
 ## 1.3 Project Beneficiaries
 My prototype has no current beneficiaries, however, if it were deployed in a real-life setting, the solution's proposed beneficiaries would care home residents and care home staff.
 To assist the residents in maintaining their health and well-being, the app would remind the care home staff about any upcoming medications or appointments for their patients. Also, it would reduce medication errors and enhance efficiency among Care Home staff in managing medication schedules, appointments, and patient records.
+
 
 ## 1.4 Project Limitations
 As a prototype developed by a university student without any real beneficiaries, there are some limitations to the proposed project.
@@ -45,6 +48,7 @@ Some potential limitations include:
 funding, and access to healthcare professionals along with the technology resources I may need to further develop my app. This may impact the overall quality of my app.
 2. Limited Feedback: Without real beneficiaries, it may be challenging to gather comprehensive feedback from the target users, which could limit the app's ability to meet the unique needs and requirements of care home staff and residents.
 3. Limited Real-World Testing: Without real-world testing with actual beneficiaries, it may be challenging to determine the app's effectiveness and identify any areas that require improvement.
+
 
 ## 1.5 Risks
 ### 1.5.1 Risks to My Project
