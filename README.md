@@ -23,13 +23,13 @@ Having primary and secondary objectives helps to clarify the project's purpose a
 • Secondary objectives – The supporting goals that help to achieve the primary
 objective.
 
-#### 1.2.1 Primary Objectives
+### 1.2.1 Primary Objectives
 1. Develop an easy-to-use iOS healthcare app that incorporates pill reminders, patient appointment reminders, and patient records for care home residents used by staff.
 2. Streamline the medication management process for care home staff, reducing the risk of medication errors and improving patient outcomes.
 3. Enhance patient care by improving appointment scheduling to reduce missed appointments.
 4. Allow care-home staff, to access patient records in real-time to make informed decisions.
 
-#### 1.2.2 Secondary Objectives
+### 1.2.2 Secondary Objectives
 1. Allow for easy data entry and record keeping.
 2. Provide customizable reminders and notifications to ensure that residents take their
 medication on time and attend appointments.
@@ -47,13 +47,13 @@ funding, and access to healthcare professionals along with the technology resour
 3. Limited Real-World Testing: Without real-world testing with actual beneficiaries, it may be challenging to determine the app's effectiveness and identify any areas that require improvement.
 
 ## 1.5 Risks
-### 1.5.1 RiskstomyProject
+### 1.5.1 Risks to My Project
 Below is a list of potential risks relating specifically to my project:
 1. User acceptance: From my research earlier, I gathered that there may be resistance from care home staff to adopt new technology, affecting the success of the app. To mitigate this, I will regularly gather feedback from those around me to understand their experiences with the application and identify areas for improvement.
 2. Data privacy and security: The app will be handling sensitive patient information, and it's important to ensure the protection of this data. To mitigate this, I will be using a dummy dataset with fake patient details.
 3. Integration with existing systems: The app may need to integrate with existing systems used in care homes, leading to potential compatibility issues. Since this is a student project, I will only be building a prototype so this isn’t an issue, I will face. However, if this application was to be deployed for a customer to mitigate this risk, I would conduct a compatibility test of the new application with existing systems before deployment to identify and address any potential issues.
 
-### 1.5.2 Risks that my project poses to others.
+### 1.5.2 Risks that my project poses to others
 Below is a list of potential risks for my project that may harm others and how to reduce them to acceptable levels:
 • Data privacy and security: The app will handle sensitive patient information and it's important to ensure that this data is protected from unauthorized access or misuse. I will be using a dummy dataset, however, if I were to deploy this project in a real-life setting, I would be using real patient records. To reduce any risks associated with this I will put in place appropriate security measures such as encryption, secure data storage, and access controls would be implemented and regularly tested.
 • User error: Care home staff may use the app incorrectly, leading to incorrect or inconsistent patient information. This solution is only a prototype, so I will not face this risk; however, to reduce the risk of user error in a real-life setting, I will suggest my client provide comprehensive user training and support for the care home staff. Additionally, a user-friendly interface should be implemented in the app to help reduce this risk.
